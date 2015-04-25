@@ -5,7 +5,7 @@ Going through a tutorial on some basic Mocha testing
 
 [Mocha Reporters](http://mochajs.org/#reporters)
 
-![Demo](./node-mocha-run-server-run-tests.gif)
+![Demo](./node-mocha-run-server-run-tests-scaled.gif)
 
 
 ## Install and run
