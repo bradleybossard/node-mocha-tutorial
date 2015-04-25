@@ -9,13 +9,13 @@ Going through a tutorial on some basic Mocha testing
 
 1.  Clone this repo
 
-    https://github.com/bradleybossard/node-mocha-tutorial
+  `https://github.com/bradleybossard/node-mocha-tutorial`
 
 2.  Install the dependencies
 
-    cd node-mocha-tutorial
-    npm install
+  `cd node-mocha-tutorial`  
+  `npm install`
 
 3.  Run the tests
 
-    npm test
+  `npm test`
