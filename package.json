@@ -1,0 +1,25 @@
+{
+  "name": "node-mocha-tutorial",
+  "version": "1.0.0",
+  "description": "Going through a tutorial on some basic Mocha testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter landing"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bradleybossard/node-mocha-tutorial.git"
+  },
+  "author": "bradleybossard@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bradleybossard/node-mocha-tutorial/issues"
+  },
+  "homepage": "https://github.com/bradleybossard/node-mocha-tutorial",
+  "dependencies": {
+    "chai": "^2.2.0",
+    "express": "^4.12.3",
+    "mocha": "^2.2.4",
+    "request": "^2.55.0"
+  }
+}
